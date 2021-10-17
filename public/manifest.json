@@ -1,0 +1,10 @@
+{
+  "name": "My Vue Plugin",
+  "id": "1031433741190581663",
+  "api": "1.0.0",
+  "main": "code.js",
+  "editorType": [
+    "figma"
+  ],
+  "ui": "index.html"
+}
